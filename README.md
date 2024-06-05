@@ -3,31 +3,25 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DH-0216&label=Profile%20views&color=0e75b6&style=flat" alt="DH-0216" /> </p>
 
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<br>
 
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">  
   
+
 - 🧑‍🎓 I’m an Undergraduate at **CINEC**
 
 - 📫 How to reach me **dulajhashmika075@gmail.com**
   
 - ⚡ Fun fact **Call me as KD**
 
-</td>
-<td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-  
-  </td>
-</tr>
-</table>
 
 ---
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">My Statistics:</h3>
+<br>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -48,6 +42,7 @@
 ---
 
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</b></h3>
+<br>
 
 
 <p align="center">
