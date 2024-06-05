@@ -15,9 +15,6 @@
   
 - ⚡ Fun fact **Call me as DH**
 
-
-
-
 ---
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">My Statistics:</h3>
@@ -41,7 +38,7 @@
 
 ---
 
-<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</b></h3>
+<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages</h3>
 <br>
 
 
@@ -61,5 +58,15 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </div>
+</p>
+
+---
+<h3 align="center">Connect with me:</h3>
+<br>
+
+<p align="center">
+  
+<a href="https://linkedin.com/in/dulaj-hashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj-hashmika" height="30" width="40" /></a>
+
 </p>
 
