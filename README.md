@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dulajhashmika075@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun fact **Call me as DH**
 
 
 
