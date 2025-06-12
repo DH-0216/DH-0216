@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **dulajhashmika075@gmail.com**
   
-- ⚡ Fun fact **Call me as DH**
-
 ---
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">My Statistics:</h3>
