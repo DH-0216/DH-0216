@@ -1,10 +1,21 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+</p>
+
 <h1 align="center">👋 Hi, I'm Dulaj Hashmika</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DH-0216&label=Profile%20views&color=0e75b6&style=flat" alt="DH-0216" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dh-0216&theme=monokai&no-bg=true&margin-w=15&no-frame=true" alt="dh-0216" /></a> </p>
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DH-0216&label=Profile%20views&color=0e75b6&style=flat">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DH-0216&theme=monokai&no-bg=true&margin-w=15&no-frame=true">
+</p>
+
+<img align="right" width="150px" height="150px"
+src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 
 
